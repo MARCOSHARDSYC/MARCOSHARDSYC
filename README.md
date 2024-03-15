@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MARCOSHARDSYC
+- 👋 Hi, I’m MARCOS PAULO
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ... HTML AND CSS
 - 💞️ I’m looking to collaborate on ...nothing yet
